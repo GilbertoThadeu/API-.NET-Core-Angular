@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wz0ENbEqB1+nYWiR+8KdO6I0npXXPQu/ChMnIqDGH0itY4S+YY9PML6V0wTC9zry8V9tGPClo+ZSPMd65vy8ZA==",
+  "dgSpecHash": "Z5GIw8YX8550Nz/ts2/CB1ebrQQ0KKetJQ4JfbV71ClIc5zeBpiLTAkfVdntpxq13k6V1M/ye8ulXdUTYtjCbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gilbe\\OneDrive\\Documentos\\Codigo Fonte\\C# Web\\Angular\\dotnetCore\\ProAgil.WebAPI\\ProAgil.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\gilbe\\OneDrive\\Documentos\\Codigo Fonte\\C# Web\\Angular\\Meu\\ProAgil.WebAPI\\ProAgil.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gilbe\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\gilbe\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
